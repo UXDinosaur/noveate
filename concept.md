@@ -1,4 +1,4 @@
-# NOVEATE: Problem framing & strategy
+# NOVEATE: Problem-framing & strategy
 
 ### Create an amazing open source, no-frills, distraction-free writing experience for long-form fiction authors while simultaneously incorporating planning tools that enhance productivity.
 
@@ -131,7 +131,7 @@ Authors’ processes evolve over time, including how they approach planning (or 
 * High fidelity prototypes
 
 
-## Roadmap
+## Future Roadmap
 
 In no particular order— 
 
