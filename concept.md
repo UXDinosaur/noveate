@@ -18,8 +18,6 @@
 
 **How might we** leverage existing software to increase the accessibility and inclusivity of Noveate?
 
-**Who are we?** Open source volunteers.
-
 
 ## Key user outcomes [MVP]
 
