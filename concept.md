@@ -5,7 +5,7 @@
 ## Writing a book is hard
 
 * Planning, writing, editing, formatting, and publishing a book (let alone a whole series) is a massive undertaking.
-* On top of the actual work of writing and creating, there is the “business” side of the whole process as well. This is also applicable to authors who are traditionally published.
+* On top of the actual work of writing and creating, there is the “business” side of the whole process as well, both traditional and indie.
     * Marketing and ad buys plus management and strategy thereof
     * Social media content and reader interaction
     * Book blurbs and SEO
